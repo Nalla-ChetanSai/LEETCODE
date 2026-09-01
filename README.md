@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nalla-ChetanSai/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Nalla-ChetanSai/LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [1550-three-consecutive-odds](https://github.com/Nalla-ChetanSai/LEETCODE/tree/master/1550-three-consecutive-odds) |
 ## Dynamic Programming
 |  |
 | ------- |
