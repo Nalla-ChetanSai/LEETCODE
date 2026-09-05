@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Nalla-ChetanSai/LEETCODE/tree/master/0016-3sum-closest) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Nalla-ChetanSai/LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0075-sort-colors](https://github.com/Nalla-ChetanSai/LEETCODE/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nalla-ChetanSai/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0137-single-number-ii](https://github.com/Nalla-ChetanSai/LEETCODE/tree/master/0137-single-number-ii) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Nalla-ChetanSai/LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Nalla-ChetanSai/LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 ## Two Pointers
 |  |
