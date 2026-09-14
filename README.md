@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Nalla-ChetanSai/LEETCODE/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Nalla-ChetanSai/LEETCODE/tree/master/0013-roman-to-integer) |
 | [0507-perfect-number](https://github.com/Nalla-ChetanSai/LEETCODE/tree/master/0507-perfect-number) |
+| [0836-rectangle-overlap](https://github.com/Nalla-ChetanSai/LEETCODE/tree/master/0836-rectangle-overlap) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Nalla-ChetanSai/LEETCODE/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3870-count-commas-in-range](https://github.com/Nalla-ChetanSai/LEETCODE/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Nalla-ChetanSai/LEETCODE/tree/master/3875-construct-uniform-parity-array-i) |
@@ -92,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Nalla-ChetanSai/LEETCODE/tree/master/0852-peak-index-in-a-mountain-array) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Nalla-ChetanSai/LEETCODE/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
