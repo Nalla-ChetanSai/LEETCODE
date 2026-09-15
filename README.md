@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/Nalla-ChetanSai/LEETCODE/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1550-three-consecutive-odds](https://github.com/Nalla-ChetanSai/LEETCODE/tree/master/1550-three-consecutive-odds) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Nalla-ChetanSai/LEETCODE/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Nalla-ChetanSai/LEETCODE/tree/master/3364-minimum-positive-sum-subarray) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Nalla-ChetanSai/LEETCODE/tree/master/3875-construct-uniform-parity-array-i) |
 ## Dynamic Programming
 |  |
@@ -97,4 +98,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Nalla-ChetanSai/LEETCODE/tree/master/0836-rectangle-overlap) |
+## Sliding Window
+|  |
+| ------- |
+| [3364-minimum-positive-sum-subarray](https://github.com/Nalla-ChetanSai/LEETCODE/tree/master/3364-minimum-positive-sum-subarray) |
+## Prefix Sum
+|  |
+| ------- |
+| [3364-minimum-positive-sum-subarray](https://github.com/Nalla-ChetanSai/LEETCODE/tree/master/3364-minimum-positive-sum-subarray) |
 <!---LeetCode Topics End-->
