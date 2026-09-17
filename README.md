@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Nalla-ChetanSai/LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Nalla-ChetanSai/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Nalla-ChetanSai/LEETCODE/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0904-fruit-into-baskets](https://github.com/Nalla-ChetanSai/LEETCODE/tree/master/0904-fruit-into-baskets) |
 | [1550-three-consecutive-odds](https://github.com/Nalla-ChetanSai/LEETCODE/tree/master/1550-three-consecutive-odds) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Nalla-ChetanSai/LEETCODE/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Nalla-ChetanSai/LEETCODE/tree/master/3364-minimum-positive-sum-subarray) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Nalla-ChetanSai/LEETCODE/tree/master/0013-roman-to-integer) |
 | [0387-first-unique-character-in-a-string](https://github.com/Nalla-ChetanSai/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
+| [0904-fruit-into-baskets](https://github.com/Nalla-ChetanSai/LEETCODE/tree/master/0904-fruit-into-baskets) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Nalla-ChetanSai/LEETCODE/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Queue
 |  |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Nalla-ChetanSai/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
+| [0904-fruit-into-baskets](https://github.com/Nalla-ChetanSai/LEETCODE/tree/master/0904-fruit-into-baskets) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Nalla-ChetanSai/LEETCODE/tree/master/3364-minimum-positive-sum-subarray) |
 ## Prefix Sum
 |  |
