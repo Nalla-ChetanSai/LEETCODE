@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1550-three-consecutive-odds](https://github.com/Nalla-ChetanSai/LEETCODE/tree/master/1550-three-consecutive-odds) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Nalla-ChetanSai/LEETCODE/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Nalla-ChetanSai/LEETCODE/tree/master/3364-minimum-positive-sum-subarray) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Nalla-ChetanSai/LEETCODE/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Nalla-ChetanSai/LEETCODE/tree/master/3875-construct-uniform-parity-array-i) |
 ## Dynamic Programming
 |  |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/Nalla-ChetanSai/LEETCODE/tree/master/0507-perfect-number) |
 | [0836-rectangle-overlap](https://github.com/Nalla-ChetanSai/LEETCODE/tree/master/0836-rectangle-overlap) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Nalla-ChetanSai/LEETCODE/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Nalla-ChetanSai/LEETCODE/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3870-count-commas-in-range](https://github.com/Nalla-ChetanSai/LEETCODE/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Nalla-ChetanSai/LEETCODE/tree/master/3875-construct-uniform-parity-array-i) |
 ## Quicksort
