@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Nalla-ChetanSai/LEETCODE/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Nalla-ChetanSai/LEETCODE/tree/master/0067-add-binary) |
 | [0387-first-unique-character-in-a-string](https://github.com/Nalla-ChetanSai/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Nalla-ChetanSai/LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Nalla-ChetanSai/LEETCODE/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Nalla-ChetanSai/LEETCODE/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Hash Table
@@ -140,8 +141,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Nalla-ChetanSai/LEETCODE/tree/master/0020-valid-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Nalla-ChetanSai/LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Nalla-ChetanSai/LEETCODE/tree/master/0020-valid-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Nalla-ChetanSai/LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
