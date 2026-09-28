@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Nalla-ChetanSai/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Nalla-ChetanSai/LEETCODE/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0904-fruit-into-baskets](https://github.com/Nalla-ChetanSai/LEETCODE/tree/master/0904-fruit-into-baskets) |
+| [1004-max-consecutive-ones-iii](https://github.com/Nalla-ChetanSai/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Nalla-ChetanSai/LEETCODE/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1550-three-consecutive-odds](https://github.com/Nalla-ChetanSai/LEETCODE/tree/master/1550-three-consecutive-odds) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Nalla-ChetanSai/LEETCODE/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Nalla-ChetanSai/LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Nalla-ChetanSai/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Nalla-ChetanSai/LEETCODE/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/Nalla-ChetanSai/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -122,11 +124,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nalla-ChetanSai/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Nalla-ChetanSai/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0904-fruit-into-baskets](https://github.com/Nalla-ChetanSai/LEETCODE/tree/master/0904-fruit-into-baskets) |
+| [1004-max-consecutive-ones-iii](https://github.com/Nalla-ChetanSai/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Nalla-ChetanSai/LEETCODE/tree/master/3364-minimum-positive-sum-subarray) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Nalla-ChetanSai/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/Nalla-ChetanSai/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Nalla-ChetanSai/LEETCODE/tree/master/3364-minimum-positive-sum-subarray) |
 ## Simulation
 |  |
