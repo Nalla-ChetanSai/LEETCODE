@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Nalla-ChetanSai/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Nalla-ChetanSai/LEETCODE/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nalla-ChetanSai/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0678-valid-parenthesis-string](https://github.com/Nalla-ChetanSai/LEETCODE/tree/master/0678-valid-parenthesis-string) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Nalla-ChetanSai/LEETCODE/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Nalla-ChetanSai/LEETCODE/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/Nalla-ChetanSai/LEETCODE/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/Nalla-ChetanSai/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0507-perfect-number](https://github.com/Nalla-ChetanSai/LEETCODE/tree/master/0507-perfect-number) |
 | [0836-rectangle-overlap](https://github.com/Nalla-ChetanSai/LEETCODE/tree/master/0836-rectangle-overlap) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Nalla-ChetanSai/LEETCODE/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -164,4 +166,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Nalla-ChetanSai/LEETCODE/tree/master/0678-valid-parenthesis-string) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Nalla-ChetanSai/LEETCODE/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
