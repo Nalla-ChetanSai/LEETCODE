@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Nalla-ChetanSai/LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Nalla-ChetanSai/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0228-summary-ranges](https://github.com/Nalla-ChetanSai/LEETCODE/tree/master/0228-summary-ranges) |
+| [0485-max-consecutive-ones](https://github.com/Nalla-ChetanSai/LEETCODE/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/Nalla-ChetanSai/LEETCODE/tree/master/0643-maximum-average-subarray-i) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Nalla-ChetanSai/LEETCODE/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0904-fruit-into-baskets](https://github.com/Nalla-ChetanSai/LEETCODE/tree/master/0904-fruit-into-baskets) |
